@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: e49ce8823879dd1408ac9e010037ef80
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cytoplasm
+    100002: //RootNode
+    100004: vacuole
+    400000: cytoplasm
+    400002: //RootNode
+    400004: vacuole
+    2100000: TT_checker_512x512_UV_GRID
+    2300000: cytoplasm
+    2300002: vacuole
+    3300000: cytoplasm
+    3300002: vacuole
+    4300000: cytoplasm
+    4300002: vacuole
+    7400000: cytoplasm|cellAction
+    7400002: cytoplasm|chloroplast.inAction
+    7400004: cytoplasm|chloroplast.outAction
+    7400006: cytoplasm|cytoplasmAction
+    7400008: cytoplasm|golgi.appratusAction
+    7400010: cytoplasm|lysosomeAction
+    7400012: cytoplasm|mitochondriaAction
+    7400014: cytoplasm|nucleusAction
+    7400016: cytoplasm|peroxisomeAction
+    7400018: cytoplasm|plasmodesmaAction
+    7400020: cytoplasm|ribosomesAction
+    7400022: cytoplasm|rough.ERAction
+    7400024: cytoplasm|smooth.ERAction
+    7400026: cytoplasm|vacuoleAction
+    7400028: vacuole|cellAction
+    7400030: vacuole|chloroplast.inAction
+    7400032: vacuole|chloroplast.outAction
+    7400034: vacuole|cytoplasmAction
+    7400036: vacuole|golgi.appratusAction
+    7400038: vacuole|lysosomeAction
+    7400040: vacuole|mitochondriaAction
+    7400042: vacuole|nucleusAction
+    7400044: vacuole|peroxisomeAction
+    7400046: vacuole|plasmodesmaAction
+    7400048: vacuole|ribosomesAction
+    7400050: vacuole|rough.ERAction
+    7400052: vacuole|smooth.ERAction
+    7400054: vacuole|vacuoleAction
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

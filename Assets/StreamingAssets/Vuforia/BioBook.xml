@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Skin_Target" size="4.000000 2.326667" />
+    <ImageTarget name="Anemia_Target" size="4.000000 2.479339" />
+    <ImageTarget name="Mitochondia_Target" size="4.000000 2.723404" />
+    <ImageTarget name="Skull_Target" size="4.000000 1.905000" />
+    <ImageTarget name="Animal_Cell_Target" size="4.000000 2.825000" />
+    <ImageTarget name="Plant_Cell_Target" size="4.000000 3.720000" />
+    <ImageTarget name="DNA_Target" size="4.000000 3.000000" />
+  </Tracking>
+</QCARConfig>
